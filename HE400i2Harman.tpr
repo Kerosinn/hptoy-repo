@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 <Preset Version="1.0" Type="HiFiToy" >
 	<Filters Address="81" Address1="88" >
 		<Biquad Address="81" Address1="88" >
