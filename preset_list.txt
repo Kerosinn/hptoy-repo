@@ -1,0 +1,7 @@
+HD800S2Harman.tpr
+HE400i2Harman.tpr
+HE400i2HD800S.tpr
+HE400i2LCD2.tpr
+HE560toHarman.tpr
+LCD2toHarman.tpr
+LCD4toHarman.tpr
